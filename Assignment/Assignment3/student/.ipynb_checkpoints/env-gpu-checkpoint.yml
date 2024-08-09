@@ -1,0 +1,10 @@
+name: cs224n-gpu
+channels:
+  - defaults
+dependencies:
+  - python==3.10
+  - pip
+  - libxml2
+  - libxslt
+  - pip:
+      - -r requirements.txt

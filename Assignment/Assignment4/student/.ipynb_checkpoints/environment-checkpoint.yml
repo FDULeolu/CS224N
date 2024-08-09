@@ -1,0 +1,4 @@
+name: cs224n_gpu
+channels:
+  - defaults
+prefix: /Users/leo-lu/opt/anaconda3/envs/cs224n_gpu
